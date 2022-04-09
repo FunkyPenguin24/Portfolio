@@ -22,6 +22,7 @@ The below mobile projects have been developed using the Flutter framework and an
 | :---    | :---        | :--- |
 | Film review distributed system | A Hadoop Distributed File System designed to analyse film reviews. Completed for a University Complex System module coursework | [Repository](https://github.com/FunkyPenguin24/ComplexSystemsCW2) |
 | Group sorter | A Java application for sorting students into equal groups based on their skillset | [Repository](https://github.com/FunkyPenguin24/groupSorter) |
+| Incident Management Dashboard | A Java application for monitoring incidents and participants intended for use at the North Yorkshire County Cub Camp | Repository private at request of event organisers / WIP |
 
 ## <a name="game-jam-area"></a> Game Jam projects
 
@@ -32,5 +33,3 @@ The below mobile projects have been developed using the Flutter framework and an
 | GlobalGameJam2020 - Rough Landing | A game about repairing your spaceship and getting home. | [Repository](https://github.com/youugotssponged/GlobalGameJam2020) | 
 | GlobalGameJam2019 - Homeward Bound | A game about getting home and avoiding becoming the cliché hero. | [Global Game Jam Page](https://globalgamejam.org/2019/games/homeward-bound-2)| 
 | Alderhay Game Jam 2018 - Pill Mania / ERADICATOR | A game about fighing germs and disease through platforming and simple physics. | [Repository]() | 
-
-Game Jam
