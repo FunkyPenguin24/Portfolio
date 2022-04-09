@@ -9,9 +9,9 @@ The below mobile projects have been developed using the Flutter framework and an
 
 | Project | Description | Link |
 | :---    | :---        | :--- |
-| Coordinate translator | A mobile app built in flutter that takes given Latitude and Longitude coordinates and translates them to an Ordnance Survey grid references and vice versa | [Repository](https://github.com/FunkyPenguin24/CoordinateTranslator) / [Google Play](https://play.google.com/store/apps/details?id=com.elpackage.elevens) |
+| Coordinate translator | A mobile app built in flutter that takes given Latitude and Longitude coordinates and translates them to an Ordnance Survey grid references and vice versa | [Repository](https://github.com/FunkyPenguin24/CoordinateTranslator) / [Google Play](https://play.google.com/store/apps/details?id=com.latlonpackage.coord_translator) |
 | Coordinate translator dart package | The dart package containing the logic for the above app for use in other apps | [Repository](https://github.com/FunkyPenguin24/latlong_to_osgrid) / [Pub dev page](https://pub.dev/packages/latlong_to_osgrid) |
-| Elevens | A mobile card game version of a classic single player game that's all about adding up to eleven | [Repository](https://github.com/FunkyPenguin24/elevensapp) / [Google Play](https://play.google.com/store/apps/details?id=com.latlonpackage.coord_translator) |
+| Elevens | A mobile card game version of a classic single player game that's all about adding up to eleven | [Repository](https://github.com/FunkyPenguin24/elevensapp) / [Google Play](https://play.google.com/store/apps/details?id=com.elpackage.elevens) |
 | Escape | A mobile app for use during the Escape scout event, a hide-and-seek style wide game | Repository private at request of event organisers / [Google Play](https://play.google.com/store/apps/details?id=escape.york.escapeapp) |
 | Incident Management System | A mobile system for reporting and monitoring incidents intended for use at North Yorkshire County Cub Camp | Repository private at request of event organisers / WIP |
 
