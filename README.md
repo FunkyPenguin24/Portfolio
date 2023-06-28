@@ -13,7 +13,7 @@ The below mobile projects have been developed using the Flutter framework and an
 | Coordinate translator dart package | The dart package containing the logic for the above app for use in other apps | [Repository](https://github.com/FunkyPenguin24/latlong_to_osgrid) / [Pub dev page](https://pub.dev/packages/latlong_to_osgrid) |
 | Elevens | A mobile card game version of a classic single player game that's all about adding up to eleven | [Repository](https://github.com/FunkyPenguin24/elevensapp) / [Google Play](https://play.google.com/store/apps/details?id=com.elpackage.elevens) |
 | Escape | A mobile app for use during the Escape scout event, a hide-and-seek style wide game | Repository private at request of event organisers / [Google Play](https://play.google.com/store/apps/details?id=escape.york.escapeapp) |
-| Incident Management System | A mobile system for reporting and monitoring incidents intended for use at North Yorkshire County Cub Camp | Repository private at request of event organisers / WIP |
+| Event Management System | A mobile system for use at North Yorkshire Scouts County Events that allows Scout leaders to quickly access camp information, as well as report any incidents, such as first aid, to event staff | Repository private at request of event organisers / [Google Play](https://play.google.com/store/apps/details?id=com.nys.nys_incidents) |
 
 
 ## <a name="desktop-area"></a> Desktop projects
@@ -22,7 +22,7 @@ The below mobile projects have been developed using the Flutter framework and an
 | :---    | :---        | :--- |
 | Film review distributed system | A Hadoop Distributed File System designed to analyse film reviews. Completed for a University Complex System module coursework | [Repository](https://github.com/FunkyPenguin24/ComplexSystemsCW2) |
 | Group sorter | A Java application for sorting students into equal groups based on their skillset | [Repository](https://github.com/FunkyPenguin24/groupSorter) |
-| Incident Management Dashboard | A Java application for monitoring incidents and participants intended for use at the North Yorkshire County Cub Camp | Repository private at request of event organisers / WIP |
+| Event Management Dashboard | A Blazor server application for monitoring reports and participants intended for use at the North Yorkshire County Events. This allows event staff to track who is on/off site in the event of an emergency, as well as monitor incoming reports and allocate them out of the relevent team | Repository private at request of event organisers |
 
 ## <a name="game-jam-area"></a> Game Jam projects
 
